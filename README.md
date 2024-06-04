@@ -23,3 +23,6 @@
 <p>A integração Frontend/Backend será efetuada através de requisições HTTP.</p>
 
 <p>Para visualizar informações mais detalhadas do desenvolvimento deste projeto, acesse o arquivo <b>'A001 - CRUD Comercial - Relatório de execução.pdf'</b>, neste repositório.</p>
+
+<h6>*Backend concluído</h6>
+<h6>**Frontend em desenvolvimento</h6>
