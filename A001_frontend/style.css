@@ -1,0 +1,21 @@
+html {
+    background-color: #243757;
+    background-size:cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #dad5b7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+}
+
+body {
+    background-color: #243757;
+}
+
+#menu {
+    background-color: #000034;
+}
+#corpo {
+    background-color: antiquewhite;
+}
